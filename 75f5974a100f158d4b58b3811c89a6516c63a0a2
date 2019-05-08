@@ -1,0 +1,1 @@
+{"jobID":"a5411d4c-a82d-3bed-b79a-04077782f164","spec":{"type":"policy","cause":{"Message":"","User":"Lukasz Dobrzanski \u003clukasz.m.dobrzanski@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
